@@ -1,4 +1,4 @@
-module github.com/hhuseyinpay/mebokulbilgileri
+module github.com/hhuseyinpay/meb-okul-bilgileri
 
 go 1.16
 
